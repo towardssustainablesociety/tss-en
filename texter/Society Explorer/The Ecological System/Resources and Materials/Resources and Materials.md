@@ -12,7 +12,7 @@ The picture also changes when you look ahead. The rich countries have built thei
 
 Often, yes. It is one of the growth advocates' strongest arguments. When a resource becomes scarce, its price rises. Then it becomes profitable to look for new deposits, use the resource more efficiently or replace it with something else. A well-known example is the 1980 wager between the economist Julian Simon and the biologist Paul Ehrlich on the price of five metals. Ehrlich believed prices would rise as the metals became scarcer. They fell, and Simon won.
 
-But the mechanism only works for things that have a price. Fish in the sea, groundwater, pollinators and the atmosphere's capacity to absorb carbon dioxide usually have no price, or a price that does not reflect the damage. There the market says nothing until it is too late, as when the cod disappeared off Newfoundland.
+But the mechanism only works for things that have a price. Fish in the sea, groundwater, pollinators and the atmosphere's capacity to absorb carbon dioxide usually have no price, or a price that does not reflect the damage. There the market says nothing until it is too late, as when the cod disappeared off Newfoundland. Who owns nature, and who should receive its value, is discussed on the page [Ownership and Basic Security – The Economic System](<../../The Economic System/Ownership and Basic Security/Ownership and Basic Security.md>).
 
 The market is therefore good at handling scarcity of what is sold, but poor at protecting what is not.
 

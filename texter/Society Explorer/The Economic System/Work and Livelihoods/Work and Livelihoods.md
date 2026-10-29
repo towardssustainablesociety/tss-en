@@ -14,6 +14,8 @@ At the same time, society needs work to produce goods and services and to keep o
 
 No company, however, hires people in order to create jobs. Labour is bought when it pays. Since work is taxed considerably more heavily than machines, it is often more profitable to automate or to move production to a country with lower wages.
 
+That does not mean everyone must have paid work. Those who can are expected to contribute to what everyone needs, in many ways and not only through a job.
+
 But that does not mean every conceivable job has to be created. The interesting question is rather which work is actually needed and how society wants to share it out.
 
 ## How much do we have to work?

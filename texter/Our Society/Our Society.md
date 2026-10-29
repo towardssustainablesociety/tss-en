@@ -46,6 +46,8 @@ Take an example. Today the economy needs to grow for there to be enough jobs. Wo
 
 The chain also runs the other way. When nature is harmed, for example by drought or floods, it hits the economy, people's security and trust in those who govern.
 
+Sometimes the chain reinforces itself. Drought makes harvests more expensive, worry grows, and it becomes harder to agree on what to do. This is called a **feedback loop**, and it is why small changes sometimes have large consequences.
+
 That is why a problem can rarely be solved in one system at a time. Those who see only one part risk moving the problem instead of solving it.
 
 ## Why is it so hard to change?
