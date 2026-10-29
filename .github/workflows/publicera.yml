@@ -1,7 +1,7 @@
 # Builds TSS-en and publishes it on GitHub Pages on every change in main.
 # The build script is shared with the Swedish version and is fetched from tss-sv,
 # so the two language versions are always built the same way.
-# --noindex is on until the whole site is translated. Remove it to open the site to search engines.
+# --sprak gives every page the link to the same page in Swedish, hreflang and the link to the language choice on www.
 name: Build and publish
 
 on:
@@ -39,7 +39,7 @@ jobs:
         env:
           TSS_FORRAD: ${{ github.server_url }}/${{ github.repository }}
         run: |
-          python3 tss-sv/bygg/bygg.py texter _site --lang en --noindex | tee buildlog.txt
+          python3 tss-sv/bygg/bygg.py texter _site --lang en --sprak | tee buildlog.txt
           echo '### Build' >> "$GITHUB_STEP_SUMMARY"
           sed 's/^/    /' buildlog.txt >> "$GITHUB_STEP_SUMMARY"
 
