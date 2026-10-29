@@ -50,7 +50,25 @@ So decoupling is not a question of yes or no, but of pace and breadth. Even if e
 
 Partly, and it is the growth advocates' strongest argument. Between 1990 and 2018, Sweden's economy almost doubled while carbon dioxide emissions fell by 27 per cent. The reduction has continued, and in 2025 greenhouse gas emissions within the country were about 34 per cent below the 1990 level. That is due among other things to the carbon tax introduced in 1991, to fossil-free electricity production and to district heating replacing oil boilers. It is a real success.
 
-But the picture changes when you count what we consume. Swedes' consumption gave rise to around 7.6 tonnes of greenhouse gases per person in 2023, and a large part of them are emitted in other countries where our goods are made. In 2021, consumption-based emissions were 88 million tonnes, almost twice the 48 million tonnes emitted within Sweden. Consumption-based emissions per person have also fallen, by just over a third since 2008, and Sweden is one of the eleven countries in the 2023 study. So it is Sweden's pace that turns out to be far from enough.
+But the picture changes when you count what we consume. Emissions can be counted in two ways. One counts what is emitted within Sweden's borders, even when what is made here is exported. The other counts the emissions from everything Swedes buy, wherever in the world they occur.
+
+| 2024, million tonnes of greenhouse gases | In Sweden | In other countries | Total |
+|---|---|---|---|
+| Emissions within Sweden's borders | 47.5 | – | 47.5 |
+| Emissions from Swedes' consumption | about 31 | about 48 | 79 |
+
+So roughly six in ten tonnes of the emissions from Swedes' consumption occur in other countries, where our goods are made. These have also fallen, by 26 per cent since 2008, and Sweden is one of the eleven countries in the 2023 study. It is Sweden's pace that turns out to be far from enough.
+
+What, then, is a fair share? If everyone is to have the same room and warming is to stop at 1.5 degrees, there is roughly enough for the following per person, counting everything we consume:
+
+| Emissions from consumption, tonnes per person and year | Tonnes |
+|---|---|
+| Swedes today (2023) | 7.6 |
+| Fair share 2030 | 2.5 |
+| Fair share 2040 | 1.4 |
+| Fair share 2050 | 0.7 |
+
+The levels for 2030–2050 come from an international study from 2019 on lifestyles compatible with 1.5 degrees. The Swedish Environmental Protection Agency gives a similar benchmark: at most about 1 tonne per person and year by 2050. To reach a fair share by 2030, emissions from Swedes' consumption would have to fall by about two thirds within a few years. That is far faster than so far.
 
 How quickly the pressure falls is therefore not decided by the economy alone. It is decided by political decisions in the democratic system, by what we see as a good life in the social system and by what nature can bear in the ecological system. Sweden shows that decoupling is possible, but not that it is enough.
 
@@ -96,6 +114,9 @@ A sustainable society therefore needs to be able to create security, livelihoods
 
 - [Swedish Environmental Protection Agency, Sweden's emissions and removals of greenhouse gases (in Swedish)](https://www.naturvardsverket.se/data-och-statistik/klimat/sveriges-utslapp-och-upptag-av-vaxthusgaser/)
 
-- [Swedish Environmental Protection Agency, Consumption-based greenhouse gas emissions per person and year (in Swedish)](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-per-person/)
+- [Swedish Environmental Protection Agency, Hard to reach the climate targets, but a brighter outlook for removals in forests and land (2025) (in Swedish)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2025/december/svart-att-na-klimatmalen-men-en-ljusning-for-upptaget-av-vaxthusgaser-i-skog-och-mark/)
+- [Swedish Environmental Protection Agency, Consumption-based greenhouse gas emissions in Sweden and other countries (in Swedish)](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-i-sverige-och-andra-lander/)
+- [Swedish Environmental Protection Agency, Climate and consumption (in Swedish)](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/omraden/klimatet-och-konsumtionen)
+- [IGES, Aalto University and D-mat, 1.5-Degree Lifestyles: Targets and options for reducing lifestyle carbon footprints (2019)](https://www.iges.or.jp/en/news/20190225)
 
 - [IEA, Sweden carbon tax, Government Bill 1990/91:19](https://www.iea.org/policies/12725-sweden-carbon-tax)
