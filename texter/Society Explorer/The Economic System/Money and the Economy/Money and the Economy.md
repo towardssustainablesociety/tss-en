@@ -46,7 +46,7 @@ Then the whole economy can slow down. When many people want to pay off at the sa
 
 Sweden has experienced this. When the regulation of bank lending was removed in 1985, loans grew rapidly, and much went to property and shares. In about five years, private sector debt rose from 85 to 135 per cent of GDP. Between 1990 and 1993, GDP fell by 6 per cent and unemployment rose from 3 to 12 per cent. The financial crisis of 2008 followed the same pattern in large parts of the world.
 
-The economist Hyman Minsky described how long good times make lenders and borrowers ever bolder, until the system becomes unstable. What is certain is that a system in which money is created through loans works most smoothly when loans are growing. Whether interest in itself forces constant growth, on the other hand, is disputed among economists, and it is not needed for the argument here.
+The economist Hyman Minsky described how long good times make lenders and borrowers ever bolder, until the system becomes unstable. What is certain is that a system in which money is created through loans works most smoothly when loans are growing. Whether interest in itself forces constant economic growth, on the other hand, is disputed among economists, and it is not needed for the argument here.
 
 ## Can society steer where money goes?
 

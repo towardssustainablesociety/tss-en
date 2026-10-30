@@ -16,7 +16,7 @@ If you want to see the whole first, you can start with [Our Society](<../Our Soc
 
 - [People](<People/People.md>) – we are shaped by society and shape it at the same time.
 
-- [Framework](<Framework/Framework.md>) – the UN Sustainable Development Goals, Doughnut Economics and the planetary boundaries.
+- [Framework](<Framework/Framework.md>) – the UN's sustainability areas (SDGs), Doughnut Economics and the planetary boundaries.
 
 ## Some questions to start with
 

@@ -28,7 +28,7 @@ Through ownership, capital or control over important resources gathering with a 
 
 Power can also be reinforced by economic resources giving access to networks, knowledge and positions that in turn make it easier to influence events.
 
-Competition is usually described as the opposite of concentrated power. It pushes down prices and drives new solutions, and that is a strong argument for the growth advocates. But competition also has winners, and the winners can become so large that they buy up or knock out their competitors. The biggest winners today are multinational groups with subsidiaries in many countries, which makes them hard for any single country both to tax and to regulate. In 2022, around 35 per cent of multinational companies' foreign profits were shifted to tax havens, according to the EU Tax Observatory. That is equivalent to almost ten per cent of the world's corporate tax revenue. In 2021, countries agreed on a global minimum tax of 15 per cent, but in January 2026 they agreed to exempt American groups from important parts of it.
+Competition is usually described as the opposite of concentrated power. It pushes down prices and drives new solutions, and that is a strong argument for continued economic growth. But competition also has winners, and the winners can become so large that they buy up or knock out their competitors. The biggest winners today are multinational groups with subsidiaries in many countries, which makes them hard for any single country both to tax and to regulate. In 2022, around 35 per cent of multinational companies' foreign profits were shifted to tax havens, according to the EU Tax Observatory. That is equivalent to almost ten per cent of the world's corporate tax revenue. In 2021, countries agreed on a global minimum tax of 15 per cent, but in January 2026 they agreed to exempt American groups from important parts of it.
 
 Concentration does not have to mean that anyone formally decides over the whole economy. It can be enough that some actors have much greater opportunity to influence events than others.
 
@@ -44,9 +44,9 @@ The economy is therefore shaped both by millions of everyday decisions and by de
 
 Not everyone equally. Economic growth can increase income and create opportunities for investment and development, but the gains are not automatically shared equally.
 
-Who gets a share of the increased resources is influenced by wages, ownership, taxes, investment and how the economy's institutions are designed, among other things. Growth can therefore create more resources while differences between people persist or increase.
+Who gets a share of the increased resources is influenced by wages, ownership, taxes, investment and how the economy's institutions are designed, among other things. Economic growth can therefore create more resources while differences between people persist or increase.
 
-Distribution also affects nature. In 2019, the richest tenth of the world's population accounted for about half of all emissions from consumption, and the richest one per cent for 16 per cent. The question of growth therefore cannot be separated from the question of how what is created is distributed, and who causes the pressure.
+Distribution also affects nature. In 2019, the richest tenth of the world's population accounted for about half of all emissions from consumption, and the richest one per cent for 16 per cent. The question of economic growth therefore cannot be separated from the question of how what is created is distributed, and who causes the pressure.
 
 ## How does economic power affect democracy?
 

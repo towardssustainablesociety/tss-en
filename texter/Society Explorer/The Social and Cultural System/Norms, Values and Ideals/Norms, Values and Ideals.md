@@ -14,7 +14,7 @@ If success is shown mainly as individual achievement and high consumption, other
 
 Because they feel obvious. We learn them early and meet them everywhere. They are kept alive not only by rules, but by approval, criticism, habits and the fear of standing out.
 
-That makes it hard to see the alternatives. If growth, competition and ever-increasing productivity are treated as self-evident goals, it becomes hard even to ask what actually contributes to a good life.
+That makes it hard to see the alternatives. If economic growth, competition and ever-increasing productivity are treated as self-evident goals, it becomes hard even to ask what actually contributes to a good life.
 
 ## Isn't it up to each of us how we want to live?
 

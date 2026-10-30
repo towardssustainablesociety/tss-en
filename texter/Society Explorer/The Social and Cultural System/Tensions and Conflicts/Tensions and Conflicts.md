@@ -24,7 +24,7 @@ Many, and they often overlap. There are economic tensions over incomes and costs
 
 Many of them are built into the very construction of society: country and city, a large or small welfare state, what should be privately owned and what should be shared. None of these tensions is a problem in itself. The problem arises when society lacks ways of dealing with them.
 
-There are also systemic tensions, when the way one system works creates problems that other parts of society have to bear. An economy that depends on growth can, for example, create tensions with nature's limits, which eventually become social and political.
+There are also systemic tensions, when the way one system works creates problems that other parts of society have to bear. An economy that depends on economic growth can, for example, create tensions with nature's limits, which eventually become social and political.
 
 ## Does the transition create new tensions?
 

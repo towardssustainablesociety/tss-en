@@ -18,7 +18,7 @@ A lack of resources also makes it harder to influence decisions. Those who alrea
 
 ## Isn't inequality the price of prosperity?
 
-Partly, but the link is weaker than it is often made to sound. The growth advocate's argument is that differences create incentives: those who can earn more make more effort, and the cake gets bigger for everyone. There is something in that. A society where everyone gets exactly the same regardless of effort would probably work badly.
+Partly, but the link is weaker than it is often made to sound. The argument for differences is that they create incentives: those who can earn more make more effort, and the cake gets bigger for everyone. There is something in that. A society where everyone gets exactly the same regardless of effort would probably work badly.
 
 But the Nordic countries have long combined comparatively small differences with high prosperity and high social mobility. That suggests large differences are not a precondition for prosperity. Large differences in wealth also risk becoming differences in power, which is described in more detail in Power and Distribution in the Economic System.
 

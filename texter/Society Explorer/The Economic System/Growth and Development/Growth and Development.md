@@ -2,7 +2,7 @@
 
 It does not have to by any law of nature. But today's economy is built to grow, and so problems arise when it does not.
 
-**Economic growth** means that the value of what is produced in the economy increases over time. Growth can bring higher incomes and more resources and makes it easier to finance investment and public services. Businesses, households and the public sector have therefore in various ways become dependent on the economy continuing to grow.
+**Economic growth** means that the value of what is produced in the economy increases over time. It is usually measured as an increase in GDP. Economic growth can bring higher incomes and more resources and makes it easier to finance investment and public services. Businesses, households and the public sector have therefore in various ways become dependent on the economy continuing to grow.
 
 The dependence has thus arisen largely from how the economic system is organised, not from what people need to live a good life.
 
@@ -16,17 +16,17 @@ This is not a new insight. An international commission led by the Nobel economic
 
 ## What happens if the economy stops growing?
 
-In today's system, many parts run into problems at the same time. When businesses expect growing demand, it becomes easier to invest and hire, and when the economy grows, incomes and tax revenues rise. If growth slows, businesses become more cautious, demand can fall and employment is affected.
+In today's system, many parts run into problems at the same time. When businesses expect growing demand, it becomes easier to invest and hire, and when the economy grows, incomes and tax revenues rise. If GDP growth slows, businesses become more cautious, demand can fall and employment is affected.
 
 Since work, incomes, investment and public finances are interlinked, weak development spreads quickly. What has been financed in the expectation of continued expansion becomes harder to sustain.
 
-The problem is therefore not that it is dangerous in itself for the economy to stand still. The problem is that today's system has become dependent on it continuing to grow. The real question then becomes why society needs growth to make security, work and investment function.
+The problem is therefore not that it is dangerous in itself for the economy to stand still. The problem is that today's system has become dependent on it continuing to grow. The real question then becomes why society needs economic growth to make security, work and investment function.
 
 ## Can society function without economic growth?
 
 Yes, in principle. A society does not need to produce more every year for people to be able to live a good life.
 
-But a society organised around continued economic expansion can run into problems if growth fails to materialise. To function without constant growth, several of the dependencies in today's economy need to change.
+But a society organised around continued economic expansion can run into problems if GDP growth fails to materialise. To function without constant economic growth, several of the dependencies in today's economy need to change.
 
 They include how work, incomes, investment, enterprise and public finances are organised.
 
@@ -48,7 +48,7 @@ So decoupling is not a question of yes or no, but of pace and breadth. Even if e
 
 ## Hasn't Sweden already shown that it can be done?
 
-Partly, and it is the growth advocates' strongest argument. Between 1990 and 2018, Sweden's economy almost doubled while carbon dioxide emissions fell by 27 per cent. The reduction has continued, and in 2025 greenhouse gas emissions within the country were about 34 per cent below the 1990 level. That is due among other things to the carbon tax introduced in 1991, to fossil-free electricity production and to district heating replacing oil boilers. It is a real success.
+Partly, and it is the strongest argument for continued economic growth. Between 1990 and 2018, Sweden's economy almost doubled while carbon dioxide emissions fell by 27 per cent. The reduction has continued, and in 2025 greenhouse gas emissions within the country were about 34 per cent below the 1990 level. That is due among other things to the carbon tax introduced in 1991, to fossil-free electricity production and to district heating replacing oil boilers. It is a real success.
 
 But the picture changes when you count what we consume. Emissions can be counted in two ways. One counts what is emitted within Sweden's borders, even when what is made here is exported. The other counts the emissions from everything Swedes buy, wherever in the world they occur.
 
@@ -76,9 +76,9 @@ How quickly the pressure falls is therefore not decided by the economy alone. It
 
 ## So what is the answer, really?
 
-No, society does not have to grow for people to be able to live a good life. It is above all our current economic system that has become dependent on continued growth.
+No, GDP does not have to grow for people to be able to live a good life. It is above all our current economic system that has become dependent on continued economic growth.
 
-That makes growth a question about the system. If people's livelihoods, businesses' investment and society's finances depend on constant expansion, it becomes hard to choose a different direction of development. And as long as decoupling is as slow as it is today, every per cent of growth increases the demand on how quickly the pressure must fall.
+That makes economic growth a question about the system. If people's livelihoods, businesses' investment and society's finances depend on constant expansion, it becomes hard to choose a different direction of development. And as long as decoupling is as slow as it is today, every per cent of GDP growth increases the demand on how quickly the pressure must fall.
 
 A sustainable society therefore needs to be able to create security, livelihoods and well-being without depending on production and consumption increasing all the time.
 

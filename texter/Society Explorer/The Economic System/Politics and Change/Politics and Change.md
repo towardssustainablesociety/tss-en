@@ -34,7 +34,7 @@ Because the tax system was built to finance welfare through work. In Sweden, nea
 
 Profit is taxed the same whether it comes from people or machines. But an employee also brings employer's social security contributions of 31.42 per cent of the wage, plus income tax, while a machine does not, and the investment can be written off. If a company replaces an employee with a machine, or moves the job to a low-wage country, the state therefore loses much more in tax than it gets back in corporate tax. No company hires people in order to create jobs either. Labour is bought when it pays.
 
-The growth advocate's objection is that higher taxes on capital and machines make companies move and weaken competitiveness. That is a real risk for a small, export-dependent country. Other paths are therefore being discussed: taxing what puts pressure on nature, such as energy, materials and emissions, more, and work less. This is called **green tax shifting**. Other proposals are a tax on automated production, a so-called robot tax, or on data and digital services.
+The objection from those who put economic growth first is that higher taxes on capital and machines make companies move and weaken competitiveness. That is a real risk for a small, export-dependent country. Other paths are therefore being discussed: taxing what puts pressure on nature, such as energy, materials and emissions, more, and work less. This is called **green tax shifting**. Other proposals are a tax on automated production, a so-called robot tax, or on data and digital services.
 
 The point is that today's tax system makes it expensive to use what society has plenty of, people's work, and cheap to use what the planet is short of, energy and materials.
 

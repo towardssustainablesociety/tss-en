@@ -6,7 +6,7 @@ Democracy has a special role among the four societal systems. It is where the di
 
 ## How is democracy connected with nature, the economy and people?
 
-It depends on all three. When nature is weakened there are more crises to handle, such as drought, floods and conflict over resources, and they put democracy under pressure. The economy provides the resources for what we share, but economic power also becomes political power, and a dependence on growth limits which decisions seem possible. And without trust, education and decent living conditions, people take part less and trust decisions less.
+It depends on all three. When nature is weakened there are more crises to handle, such as drought, floods and conflict over resources, and they put democracy under pressure. The economy provides the resources for what we share, but economic power also becomes political power, and a dependence on economic growth limits which decisions seem possible. And without trust, education and decent living conditions, people take part less and trust decisions less.
 
 At the same time, democracy affects all three. It is democratic decisions that put a price on emissions, set taxes and build welfare. The dependence goes both ways, and that is why the health of democracy cannot be separated from that of the rest of society.
 
@@ -32,7 +32,7 @@ That is why every change begins with people understanding how society fits toget
 
 Democracy is the system where the direction of the other systems is set. It depends on nature, the economy and people's trust, and it affects them all. A sustainable society cannot be built without democracy, nor by a democracy that lacks direction.
 
-Democracy is good at changing its leaders, but it lacks a way to set a direction and keep to it. The vision already has support, in the UN goals and, in Sweden, in the constitution. What is needed is to make it shared, to report the paths towards it, to give the future a voice and to let more people take part in deciding.
+Democracy is good at changing its leaders, but it lacks a way to set a direction and keep to it. The vision already has support, in the UN's sustainability areas and, in Sweden, in the constitution. What is needed is to make it shared, to report the paths towards it, to give the future a voice and to let more people take part in deciding.
 
 **The question is not whether democracy can manage the transition, but whether we give it the tools to lead it.**
 

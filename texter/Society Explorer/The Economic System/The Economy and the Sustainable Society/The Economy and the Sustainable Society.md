@@ -10,7 +10,7 @@ The economist Kate Raworth has described it as a doughnut, **Doughnut Economics*
 
 No. Society can develop through better health, education, security, community, knowledge and well-functioning public services, without all development having to mean more production and consumption.
 
-At the same time, economic growth is still an important part of how today's system works. A society that wants to reduce its dependence on growth therefore also needs to change the mechanisms that make work, livelihoods, investment and public finances dependent on continued economic expansion.
+At the same time, economic growth is still an important part of how today's system works. A society that wants to reduce this dependence therefore also needs to change the mechanisms that make work, livelihoods, investment and public finances dependent on continued economic expansion.
 
 ## Can the economy give people security without putting too much pressure on the planet?
 

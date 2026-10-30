@@ -16,7 +16,7 @@ The line is not always sharp, and it moves over time. Fifty years ago, having yo
 
 ## Don't we become happier by getting richer?
 
-Yes, usually, but that is not the whole answer. This is one of the strongest arguments for growth, and it should be taken seriously. For someone living in poverty, more money makes an enormous difference. Even in rich countries, people on average feel better the higher their income. A large American study from 2023 found no clear income level at which more money stops making a difference for most people.
+Yes, usually, but that is not the whole answer. This is one of the strongest arguments for continued economic growth, and it should be taken seriously. For someone living in poverty, more money makes an enormous difference. Even in rich countries, people on average feel better the higher their income. A large American study from 2023 found no clear income level at which more money stops making a difference for most people.
 
 But the same study showed that for those who are already unhappy, well-being levels off at a certain income. Money cannot buy away loneliness, illness or a lack of meaning. We also compare ourselves with each other, and what once felt like luxury soon becomes normal.
 

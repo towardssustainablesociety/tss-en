@@ -24,7 +24,7 @@ It is the planetary boundaries: the nine processes in the Earth system that toge
 
 ## Where does the map come from?
 
-The map builds on the knowledge in the Framework, at the bottom of the picture: the UN Sustainable Development Goals (SDGs), Doughnut Economics and the planetary boundaries. The Framework describes what sustainability requires. The map shows where in society it has to be achieved.
+The map builds on the knowledge in the Framework, at the bottom of the picture: the UN's sustainability areas (SDGs), Doughnut Economics and the planetary boundaries. The Framework describes what sustainability requires. The map shows where in society it has to be achieved.
 
 ## Does the map only apply to a whole country?
 

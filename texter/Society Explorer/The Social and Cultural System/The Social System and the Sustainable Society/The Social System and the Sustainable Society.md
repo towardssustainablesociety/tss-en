@@ -28,7 +28,7 @@ And third, the fairness of the transition. A change that increases injustice or 
 
 By measuring what matters to people, not just what shows up in GDP. Do people have their basic needs met? Can children get different chances from their parents? Do people trust each other and the institutions? Are they doing well?
 
-Such measures need to be followed over time and set against the ecological limits. When things go in the wrong direction, society needs to be able to correct its course. How the economy's success can be measured in ways other than GDP is covered in Growth and Development in the Economic System.
+Such measures need to be followed over time and set against the ecological limits. When things go in the wrong direction, society needs to be able to correct its course. How the economy's success can be measured in ways other than GDP is covered on the page [Growth and Development – The Economic System](<../../The Economic System/Growth and Development/Growth and Development.md>).
 
 ## Who decides which direction the social system should take?
 

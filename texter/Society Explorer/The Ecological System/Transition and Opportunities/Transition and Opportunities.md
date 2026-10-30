@@ -8,7 +8,7 @@ So change is possible. The problem is that it is happening too slowly compared w
 
 ## Can technology solve the problems?
 
-Partly, and it cannot be done without technology. Renewable energy, electric cars, heat pumps, more efficient industry and new materials are necessary parts of the transition. The growth advocates' hope is that technology will make it possible to keep growing while the pressure falls. This is called **decoupling**.
+Partly, and it cannot be done without technology. Renewable energy, electric cars, heat pumps, more efficient industry and new materials are necessary parts of the transition. The hope of those who advocate continued economic growth is that technology will make it possible for the economy to keep growing while the pressure falls. This is called **decoupling**.
 
 It has happened in some countries when it comes to carbon dioxide. But a review of over 800 studies, published in 2020, found that examples of real decoupling are few and that the reductions are nowhere near the pace that is needed.
 

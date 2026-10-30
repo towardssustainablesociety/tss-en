@@ -62,7 +62,7 @@ So technology does not decide by itself what happens. It is society's way of org
 
 We do not need to create jobs just for the sake of work. What we need is a society that can provide for people and meet our needs, while the work that is actually needed gets done.
 
-In today's economic system, work is closely linked both to livelihood and to economic activity. That is why it is hard to change the role of work without also changing other parts of the economy, such as income, social security systems and the view of growth.
+In today's economic system, work is closely linked both to livelihood and to economic activity. That is why it is hard to change the role of work without also changing other parts of the economy, such as income, social security systems and the view of economic growth.
 
 **The question is not how many jobs we can create, but how we can organise work and livelihoods so that people can live a good life without an ever-growing need for production.**
 

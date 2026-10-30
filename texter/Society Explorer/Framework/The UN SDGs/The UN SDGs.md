@@ -1,10 +1,14 @@
-The UN SDGs (*Sustainable Development Goals*), the global goals for sustainable development, express a shared direction for the development that the world's societies need to strive towards to create a sustainable future. The 17 goals and 169 targets cover social, economic and ecological issues and belong together as parts of a whole.
+The UN SDGs (*Sustainable Development Goals*) are 17 sustainability areas that together express a shared direction for the development that the world's societies need to strive towards to create a sustainable future. The 17 areas and their 169 targets cover social, economic and ecological issues and belong together as parts of a whole.
 
 The SDGs were adopted in 2015 as part of Agenda 2030 by all 193 UN member states. They are the result of an extensive international process of negotiations, evidence and participation from research and civil society, among others.
 
 The SDGs were adopted politically, but they rest on extensive international work on knowledge and research. Science has an important role both in understanding the challenges the SDGs address and in following up progress.
 
-Agenda 2030 is the shared framework for action that was adopted to turn the direction into action up to 2030. The SDGs describe which areas sustainable development needs to cover, while Agenda 2030 sets the framework for the work of achieving it.
+## Why doesn't TSS call them goals?
+
+Their official name is the Sustainable Development *Goals*. But the word goal can mean very different things, from a goal in football to a project goal. A goal in the ordinary sense has a deliverable, a deadline and someone responsible for getting it done. The SDGs have the year 2030, and each area is followed up with measurable indicators. But nobody is responsible for delivering them, and the work will have to continue long after 2030. That is why TSS calls them sustainability areas. They set a direction rather than a deliverable, and they are what the vision of a sustainable society builds on.
+
+**Agenda 2030** is something else. An agenda is a list of things to be done, and Agenda 2030 is the UN's action plan for the work up to 2030. It has an end date and is therefore more like a project. The difference between a vision and a goal is described on the page [The Vision](<../../../Our Society/The Vision/The Vision.md>), with Sweden's Vision Zero for road safety as an example.
 
 ## The SDGs as a basis for TSS
 
@@ -16,17 +20,17 @@ In TSS the SDGs are not used as a parallel structure for society. Instead, the g
 
 The SDGs are one of the three parts of the Framework. The Framework describes the basic conditions for a sustainable society and provides a basis for the Society Map.
 
-## How the goals are going
+## How the work is going
 
-The UN follows up the goals itself every year. According to the UN's 2025 report, 35 per cent of the targets were moving in the right direction. Nearly half were moving too slowly, and 18 per cent had got worse. The SDSN network, which follows up the goals country by country, estimates that fewer than 20 per cent of the targets will be met by 2030.
+The UN follows up the work itself every year. According to the UN's 2025 report, 35 per cent of the targets were moving in the right direction. Nearly half were moving too slowly, and 18 per cent had got worse. The SDSN network, which follows up the work country by country, estimates that fewer than 20 per cent of the targets will be met by 2030.
 
-Sweden is among the countries with the best scores. In SDSN's 2025 report Finland ranks first, Sweden second and Denmark third. The score, however, mainly concerns what happens within each country. The report points out that the Nordic countries face major difficulties with the goals on sustainable consumption, climate and biodiversity, partly because their consumption causes emissions and other impacts in other countries. This matches the picture on the page [Growth and Development – The Economic System](<../../The Economic System/Growth and Development/Growth and Development.md>).
+Sweden is among the countries with the best scores. In SDSN's 2025 report Finland ranks first, Sweden second and Denmark third. The score, however, mainly concerns what happens within each country. The report points out that the Nordic countries face major difficulties in the areas of sustainable consumption, climate and biodiversity, partly because their consumption causes emissions and other impacts in other countries. This matches the picture on the page [Growth and Development – The Economic System](<../../The Economic System/Growth and Development/Growth and Development.md>).
 
 ## The SDGs and planetary boundaries
 
-The SDGs contain a built-in tension. Goal 8 is about decent work and economic growth. Under target 8.1, growth per person is to continue, and the least developed countries are to have at least 7 per cent growth per year. Under target 8.4, countries are at the same time to endeavour to decouple growth from environmental degradation, with the rich countries taking the lead.
+The SDGs contain a built-in tension. Area 8 is about decent work and economic growth. Under target 8.1, GDP per person is to keep growing, and the least developed countries are to have at least 7 per cent GDP growth per year. Under target 8.4, countries are at the same time to endeavour to decouple economic growth from environmental degradation, with the rich countries taking the lead.
 
-For the poorest countries, growth is hard to replace. Many people there still lack the most basic things, and more food, housing, energy and health care are needed. In the rich countries it is different. There the pressure on the planet needs to fall quickly, and decoupling has so far been far too slow.
+For the poorest countries, economic growth is hard to replace. Many people there still lack the most basic things, and more food, housing, energy and health care are needed. In the rich countries it is different. There the pressure on the planet needs to fall quickly, and decoupling has so far been far too slow.
 
 That is why TSS reads the SDGs together with the other two parts of the Framework. The SDGs describe what development needs to cover. [Planetary Boundaries](<../Planetary Boundaries/Planetary Boundaries.md>) describe what it must not exceed. [Doughnut Economics](<../Doughnut Economics/Doughnut Economics.md>) shows that both the social foundation and the ecological ceiling apply at the same time.
 

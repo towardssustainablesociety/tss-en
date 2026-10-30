@@ -1,12 +1,12 @@
 ## Why was TSS created?
 
-I have worked in IT since 1969 and long believed that automation would reduce the need for work. It did not turn out that way. We created new jobs instead, and growth became a goal in itself. In the 1980s or 1990s my son, then a teenager, said that work was overrated. The thought stayed with me.
+I have worked in IT since 1969 and long believed that automation would reduce the need for work. It did not turn out that way. We created new jobs instead, and economic growth became a goal in itself. In the 1980s or 1990s my son, then a teenager, said that work was overrated. The thought stayed with me.
 
 More questions grew out of it. Why does the economy always have to grow? What does that do to nature? And who is responsible for the whole?
 
 ## Where do the ideas come from?
 
-The frame for the whole comes from the UN Sustainable Development Goals and from Doughnut Economics. They showed that there were similar ideas internationally, and they gave my own vision a firmer foundation. A book that takes a broad view is *Earth for All* by Johan Rockström and others.
+The frame for the whole comes from the UN's sustainability areas (SDGs) and from Doughnut Economics. They showed that there were similar ideas internationally, and they gave my own vision a firmer foundation. A book that takes a broad view is *Earth for All* by Johan Rockström and others.
 
 ## How did TSS come about?
 

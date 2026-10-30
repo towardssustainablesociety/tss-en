@@ -42,7 +42,7 @@ The [democratic system](<../Society Explorer/The Democratic System/The Democrati
 
 More closely than it seems. A change in one system almost always has consequences in the others.
 
-Take an example. Today the economy needs to grow for there to be enough jobs. Work gives not only income but also identity and community, so when jobs disappear it becomes a social question. That is why whoever promises jobs and growth wins elections. And growth has so far required more and more energy and materials, taken from nature. Four systems, one single chain.
+Take an example. Today the economy needs to grow for there to be enough jobs. Work gives not only income but also identity and community, so when jobs disappear it becomes a social question. That is why whoever promises jobs and economic growth wins elections. And GDP growth has so far required more and more energy and materials, taken from nature. Four systems, one single chain.
 
 The chain also runs the other way. When nature is harmed, for example by drought or floods, it hits the economy, people's security and trust in those who govern.
 
@@ -84,7 +84,7 @@ This site does not propose which policies should be pursued to get there. That i
 
 ![The Society Map: the four societal systems with people at the centre, the social foundation and the planetary boundaries](<The Society Map/The Society Map.svg>)
 
-This is the whole picture. At the centre are people, surrounded by the social foundation and the ecological ceiling. Around them are the four societal systems and the arrows that show the connections between them. Everything is enclosed by the planetary boundaries. At the bottom is the Framework: the UN Sustainable Development Goals, Doughnut Economics and the planetary boundaries. Every part of the map is a link.
+This is the whole picture. At the centre are people, surrounded by the social foundation and the ecological ceiling. Around them are the four societal systems and the arrows that show the connections between them. Everything is enclosed by the planetary boundaries. At the bottom is the Framework: the UN's sustainability areas (SDGs), Doughnut Economics and the planetary boundaries. Every part of the map is a link.
 
 From here you can go on in two ways. [The Society Map](<The Society Map/The Society Map.md>) explains the map part by part. In [the Society Explorer](<../Society Explorer/Society Explorer.md>) you choose a system and a question that interests you, and start there.
 
