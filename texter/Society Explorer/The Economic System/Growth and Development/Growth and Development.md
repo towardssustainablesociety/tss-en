@@ -70,6 +70,8 @@ What, then, is a fair share? If everyone is to have the same room and warming is
 
 The levels for 2030–2050 come from an international study from 2019 on lifestyles compatible with 1.5 degrees. The Swedish Environmental Protection Agency gives a similar benchmark: at most about 1 tonne per person and year by 2050. To reach a fair share by 2030, emissions from Swedes' consumption would have to fall by about two thirds within a few years. That is far faster than so far.
 
+There are also ways of making emissions look smaller than they are. Within the EU Emissions Trading System this is rarely a problem: the cap applies to the whole EU, so what one company sells another can only use under the same cap. It is different with **carbon credits**, where a country or a company pays for emission reductions somewhere else and counts them as its own. Sweden may reach its net-zero target for 2045 partly through such supplementary measures, as long as emissions within the country have fallen by at least 85 per cent compared with 1990. By 2030 they may account for at most eight percentage points of the reduction. The difficulty is knowing whether the reduction actually happens. A review of 2,346 climate projects, published in 2024, found that less than 16 per cent of the credits represented real emission reductions. Credits can be an addition, but they cannot replace cutting the emissions from what we ourselves consume.
+
 How quickly the pressure falls is therefore not decided by the economy alone. It is decided by political decisions in the democratic system, by what we see as a good life in the social system and by what nature can bear in the ecological system. Sweden shows that decoupling is possible, but not that it is enough.
 
 ## So what is the answer, really?
@@ -117,6 +119,8 @@ A sustainable society therefore needs to be able to create security, livelihoods
 - [Swedish Environmental Protection Agency, Hard to reach the climate targets, but a brighter outlook for removals in forests and land (2025) (in Swedish)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2025/december/svart-att-na-klimatmalen-men-en-ljusning-for-upptaget-av-vaxthusgaser-i-skog-och-mark/)
 - [Swedish Environmental Protection Agency, Consumption-based greenhouse gas emissions in Sweden and other countries (in Swedish)](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-i-sverige-och-andra-lander/)
 - [Swedish Environmental Protection Agency, Climate and consumption (in Swedish)](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/omraden/klimatet-och-konsumtionen)
+- [Swedish Environmental Protection Agency, Sweden's climate targets and climate policy framework (in Swedish)](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/sveriges-klimatarbete/sveriges-klimatmal-och-klimatpolitiska-ramverk/)
+- [Probst et al., Systematic assessment of the achieved emission reductions of carbon crediting projects (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-53645-z)
 - [IGES, Aalto University and D-mat, 1.5-Degree Lifestyles: Targets and options for reducing lifestyle carbon footprints (2019)](https://www.iges.or.jp/en/news/20190225)
 
 - [IEA, Sweden carbon tax, Government Bill 1990/91:19](https://www.iea.org/policies/12725-sweden-carbon-tax)
