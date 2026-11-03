@@ -16,6 +16,12 @@ Because responsibility is divided into sectors. In Sweden, the Transport Adminis
 
 A new road, for example, can be profitable according to the Transport Administration's calculations, increase car traffic and so make the climate target harder to reach, while at the same time steering where the municipality builds. Nobody made a wrong decision, but nobody was responsible for the whole. This is sometimes called **silo governance**: each area is steered from the top down, but nothing steers what happens between them.
 
+## Do decision papers show what a proposal does to the whole?
+
+Only in part. In Sweden, proposals from government inquiries and public agencies must come with an impact assessment. It has to set out costs and revenues for the state, municipalities, regions, companies and individuals. The environment and the social consequences are not specifically named. They have to fit under other relevant consequences or be specified in the individual assignment.
+
+A reasonable requirement is that larger decision papers show what the proposal does to all four societal systems and how it fits with the constitution's goals on welfare and sustainable development. It is the same idea as the [impact statement for parties](<../Elections and Parties/Elections and Parties.md>). The paper does not decide what the decision should be. It makes the whole visible before the decision is taken.
+
 ## What does the state measure to see whether things are going well?
 
 Mostly the economy. GDP, employment and public finances are closely followed and drive much of the debate. Since 2017, the Swedish government has also reported fifteen new measures of well-being in its Spring Fiscal Policy Bill: five economic, five environmental and five social, such as greenhouse gas emissions, trust and life satisfaction.
@@ -57,3 +63,5 @@ What is needed is not more central control, but shared goals, broader measures a
 - [The Riksdag, The 2017 Spring Fiscal Policy Bill (New measures of well-being) (in Swedish)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/2017-ars-ekonomiska-varproposition_h403100/html/)
 
 - [Swedish Environmental Protection Agency, Sweden's Climate Act and Climate Policy Framework](https://www.naturvardsverket.se/en/topics/climate-transition/sveriges-klimatarbete/swedens-climate-act-and-climate-policy-framework/)
+
+- [Ordinance (2024:183) on Impact Assessments (in Swedish)](https://data.riksdagen.se/dokument/sfs-2024-183.html)

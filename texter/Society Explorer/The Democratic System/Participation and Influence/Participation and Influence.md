@@ -16,6 +16,14 @@ In many ways, but with very different effects. Responding to a local council's p
 
 The most proven way is still to organise. Associations, trade unions, study associations and parties give a voice to many people at once and teach people how society works. In Sweden, popular movements helped build modern society, and they are still one of democracy's most important schools.
 
+## Can citizens put forward their own proposals to parliament?
+
+Not in Sweden. Citizens are the owners of democracy, but proposals to the Riksdag come from its members, the government and certain parliamentary bodies. In 2016 the Swedish Democracy Inquiry proposed a citizens' motion, where a proposal backed by one per cent of those entitled to vote would be treated as a motion, but it has not been introduced.
+
+In other countries the way in is clearer. In Germany, anyone can under the constitution turn to parliament with a **petition**, a written request or complaint, with no requirement for signatures, and be told the outcome. In 2025, 12,399 petitions came in. In the United Kingdom, petitions with 10,000 signatures get a response from the government. In Estonia, 1,000 signatures are enough for parliament to deal with a proposal, and in Finland parliament must take up a citizens' initiative with 50,000 signatures.
+
+The countries have solved this in different ways, but the principle is the same: the written dialogue between society's democratic owners and their parliament can become better. It should be possible to put forward a proposal, see that it has been received and follow what happens to it. That gives no right to get your way, but those who decide have to explain themselves.
+
 ## Why don't we vote directly on more issues?
 
 We can, but referendums have their limits. In Sweden, national referendums are advisory, and they have dealt with big questions such as nuclear power in 1980, EU membership in 1994 and the euro in 2003.
@@ -40,7 +48,7 @@ Knowledge is not held only by experts. Someone who lives near a planned mine, ca
 
 The vote is the foundation, but it is not enough. Influence between elections is unevenly distributed and follows living conditions, and much of what is called dialogue gives little real influence.
 
-There are proven ways to do better: letting people in early, showing how views are taken into account, strengthening associations and letting citizens chosen by lot weigh difficult questions. None of this replaces elections, but it can give democracy what it lacks between them.
+There are proven ways to do better: letting people in early, giving them a way to put forward their own proposals, showing how views are taken into account, strengthening associations and letting citizens chosen by lot weigh difficult questions. None of this replaces elections, but it can give democracy what it lacks between them.
 
 **The question is not whether people want to take part, but whether their taking part makes any difference.**
 
@@ -63,3 +71,17 @@ There are proven ways to do better: letting people in early, showing how views a
 - [Wikipedia, Thirty-sixth Amendment of the Constitution of Ireland](https://en.wikipedia.org/wiki/Thirty-sixth_Amendment_of_the_Constitution_of_Ireland)
 
 - [French Government, The Citizens' Convention for Climate, an unprecedented democratic exercise (in French)](https://www.info.gouv.fr/actualite/la-convention-citoyenne-pour-le-climat-un-exercice-democratique-inedit)
+
+- [The Riksdag, Documents and laws (in Swedish)](https://www.riksdagen.se/sv/dokument-och-lagar/)
+
+- [Swedish Government Official Reports, SOU 2016:5 – Let more people shape the future! (in Swedish)](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2016/01/sou-20165/)
+
+- [ZDF, The fundamental right to petition (in German)](https://www.zdfheute.de/politik/deutschland/petition-grundrecht-regeln-einfluss-100.html)
+
+- [German Bundestag, Petitions Report 2025 (in German)](https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-petitionsbericht-2025-1181866)
+
+- [UK Parliament, How petitions work](https://petition.parliament.uk/help)
+
+- [Riigikogu, Submit a collective proposal](https://www.riigikogu.ee/en/introduction-and-history/have-your-say/submit-collective-proposal/)
+
+- [Yle, Citizens' initiatives in Finland (in Swedish)](https://yle.fi/a/7-859695)
