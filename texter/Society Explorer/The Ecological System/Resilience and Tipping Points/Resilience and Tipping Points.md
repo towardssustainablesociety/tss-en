@@ -18,6 +18,16 @@ When the fishery was stopped, the cod did not come back as many had hoped. It wa
 
 Coral reefs are a current example. According to the Global Tipping Points Report 2025, tropical coral reefs are already passing their tipping point at today's warming of around 1.4 degrees.
 
+## How long does the damage last?
+
+Sometimes much longer than whatever caused it. Stopping is then not enough.
+
+The climate change caused by carbon dioxide emissions is largely irreversible for around 1,000 years after the emissions stop. Temperatures do not fall significantly, even though the concentration in the air slowly declines.
+
+PFAS are synthetic substances that have been used in firefighting foam, among other things. They are extremely hard to break down, and some probably never break down in nature. Today they are found more or less everywhere, even in polar bears in the Arctic. In Ronneby in Sweden, the drinking water was contaminated by firefighting foam from an airfield. After people stopped drinking the water, it still took around three to five years for the levels in their blood to halve.
+
+Spent nuclear fuel is a different kind of example, because it is meant to be kept away from nature. In the review of the final repository at Forsmark in Sweden, the risk of spreading was assessed over 100,000 years. Whatever one thinks of nuclear power, it shows how far into the future a decision can reach.
+
 ## Why is the damage noticed so late?
 
 Because a system heading for a tipping point often looks stable right up to the end. Resilience works as a buffer that hides the growing stress. The cod was caught in large quantities until it was almost gone, partly because fishing was concentrated in the places where it was still found.
@@ -34,7 +44,7 @@ What makes them especially serious is that they can affect each other. Melting i
 
 By reducing the pressure and preserving diversity. A system with many species and different habitats has more ways of coping with a disturbance. A mixed forest withstands an insect attack better than a plantation of a single tree species.
 
-It is also about giving nature margins, that is, not using a system right up to the limit of what it can withstand, because we rarely know exactly where the limit lies. The same principle applies to society. A society that depends on a few resources, supply chains or crops is more vulnerable than one that has breadth and reserves.
+It is also about giving nature margins, that is, not using a system right up to the limit of what it can withstand, because we rarely know exactly where the limit lies. The same principle applies to society. A society that depends on a few resources, supply chains or crops is more vulnerable than one that has breadth and reserves. Social cohesion, too, can be worn down and reach a tipping point. That is covered on the page [Tensions and Conflicts](<../../The Social and Cultural System/Tensions and Conflicts/Tensions and Conflicts.md>).
 
 ## So what is the answer, really?
 
@@ -52,6 +62,8 @@ Since tipping points are hard to see in advance, it is wise to keep margins. Wai
 
 - [The Long Term and the Future – The Democratic System](<../../The Democratic System/The Long Term and the Future/The Long Term and the Future.md>)
 
+- [Tensions and Conflicts – The Social and Cultural System](<../../The Social and Cultural System/Tensions and Conflicts/Tensions and Conflicts.md>)
+
 - [Planetary Boundaries – Framework](<../../Framework/Planetary Boundaries/Planetary Boundaries.md>)
 
 ## External sources
@@ -61,3 +73,11 @@ Since tipping points are hard to see in advance, it is wise to keep margins. Wai
 - [The Canadian Encyclopedia, Cod Moratorium of 1992](https://thecanadianencyclopedia.ca/en/article/cod-moratorium-of-1992)
 
 - [Stockholm Resilience Centre, What is resilience?](https://www.stockholmresilience.org/research/research-news/2015-02-19-what-is-resilience.html)
+
+- [Solomon et al., Irreversible climate change due to carbon dioxide emissions (PNAS 2009)](https://echorock.cgd.ucar.edu/events/20130729/files/Solomon-Plattner-etal-2009.pdf)
+
+- [Swedish Environmental Protection Agency, Highly fluorinated substances in the environment, PFAS (in Swedish)](https://www.naturvardsverket.se/amnesomraden/miljofororeningar/organiska-miljogifter/hogfluorerade-amnen-i-miljon-pfas)
+
+- [Li et al., Half-lives of PFOA, PFPeS, PFHxS, PFHpS and PFOS after end of exposure to contaminated drinking water (2019)](https://pfascentral.org/science/half-lives-of-pfoa-pfpes-pfhxs-pfhps-and-pfos-after-end-of-exposure-to-contaminated-drinking-water)
+
+- [SVT, Court gives green light to a final repository for spent nuclear fuel (2024) (in Swedish)](https://www.svt.se/nyheter/lokalt/smaland/domstol-ger-gront-ljus-for-ett-slutforvar-for-anvant-karnbransle)

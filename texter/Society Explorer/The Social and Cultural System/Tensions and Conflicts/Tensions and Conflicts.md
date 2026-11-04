@@ -18,6 +18,18 @@ One possible course is tension, reinforcement, polarisation, conflict and at wor
 
 The image of electrical tension can help: something builds up until it discharges. But societies are not physics. People can interpret, negotiate and choose a different path.
 
+## Can a society tip over, like a lake or a fish stock?
+
+In ways that resemble nature, yes. Researchers speak of **social resilience**: the ability of groups and societies to cope with stress, adapt and, when needed, change their institutions. Long-standing injustices can wear that ability down without it showing. The risk of violence rises especially when divides coincide, so that the same ethnic or religious group is disadvantaged both economically and politically. Most societies with many ethnic groups are nevertheless peaceful. Difference in itself rarely leads to violence.
+
+Once violence has broken out, removing the cause is not enough. Fear and mistrust live on long after the fighting has stopped.
+
+The legacy can also live on long after power has changed hands. In Rwanda, the Belgian colonial power favoured the Tutsi, who were a minority, and required everyone to carry identity cards stating their ethnicity. The country became independent in 1962, but the division lived on. In the genocide of 1994, between half a million and a million Tutsi and moderate Hutu were killed. Colonialism alone does not explain the genocide, which was organised by politicians and militias in Rwanda. But it had created the dividing line they exploited. The research behind the 2024 economics prize also shows that institutions from the colonial era still affect the differences in prosperity between countries.
+
+What holds firm is often the ties between groups. In the Indian city of Calicut, Hindus and Muslims shared trade associations, trade unions and reading clubs, and when tensions rose, peace committees could quickly be formed. In Aligarh, where the groups lived more separately, false reports set off violence. The link holds better for riots than for civil wars, but it shows that cohesion can be built before it is needed.
+
+The comparison has its limits. People can choose, and leaders can deliberately stir up divisions. Nor is resilience always a good thing, because an unjust society can be resilient too. So it is not enough to ask whether society holds. We must also ask who it holds for.
+
 ## What kinds of tension are there in society?
 
 Many, and they often overlap. There are economic tensions over incomes and costs, ecological tensions over land, water and natural resources and social tensions over living conditions and belonging. There are tensions about power and ownership, politics, culture and religion, about which information to trust and between generations.
@@ -58,8 +70,24 @@ The transition will create new tensions. What matters is whether society can han
 
 - [Resources and Materials – The Ecological System](<../../The Ecological System/Resources and Materials/Resources and Materials.md>)
 
+- [Resilience and Tipping Points – The Ecological System](<../../The Ecological System/Resilience and Tipping Points/Resilience and Tipping Points.md>)
+
 - [Power and Balance of Power – The Democratic System](<../../The Democratic System/Power and Balance of Power/Power and Balance of Power.md>)
 
 - [Participation and Influence – The Democratic System](<../../The Democratic System/Participation and Influence/Participation and Influence.md>)
 
 - [The Vision – Our Society](<../../../Our Society/The Vision/The Vision.md>)
+
+## External sources
+
+- [Adger, Social and ecological resilience: are they related? (2000)](https://ueaeprints.uea.ac.uk/id/eprint/27590/)
+
+- [Keck and Sakdapolrak, What is social resilience? Lessons learned and ways forward (2013)](https://www.erdkunde.uni-bonn.de/article/view/2716)
+
+- [Stewart, Horizontal Inequalities as a Cause of Conflict: A Review of CRISE Findings (World Bank 2011)](https://openknowledge.worldbank.org/entities/publication/86dc685b-d5d4-53e2-ab25-10e7177a2a4f)
+
+- [Varshney, Ethnic Conflict and Civil Society: India and Beyond (World Politics 2001)](https://www.un.org/esa/socdev/sib/egm/paper/Ashutosh%20Varshney.pdf)
+
+- [USHMM, Rwanda: Divided by ethnicity](https://www.ushmm.org/hu/genocide-prevention/countries/rwanda/divided-by-ethnicity)
+
+- [NPR via NHPR, Nobel Prize goes to 3 economists who study the wealth and poverty of nations (2024)](https://www.nhpr.org/2024-10-14/nobel-prize-goes-to-3-economists-who-study-the-wealth-and-poverty-of-nations)
