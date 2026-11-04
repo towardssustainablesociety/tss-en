@@ -18,6 +18,8 @@ In 2024 I began asking ChatGPT questions, and in 2025 this became the report ser
 
 Only the vision: **a good life for all, within planetary boundaries**. TSS is not an organisation and not a campaign. The site has no funding and no advertising, and does not take sides with any party. It describes how society works and which paths there are, not which path is the right one.
 
+The site counts the number of visits with GoatCounter, without cookies and without storing anything about who you are.
+
 ## May I use the texts?
 
 Yes. The texts and images on the site may be used, shared and built upon under the licence [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). The conditions are that you state that the material comes from TSS, link to the licence and share what you make from it on the same terms. The idea is that TSS should be a platform that anyone can use and build on. The vision is an invitation, not a condition.
