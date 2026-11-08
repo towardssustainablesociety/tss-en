@@ -52,9 +52,19 @@ But the review proposed here decides nothing. It checks that the parties' statem
 
 The risks must still be taken seriously. Parties may learn to write glossy statements, and a reviewer may acquire a political bias or more power than was intended. The review therefore needs to be open about its methods, have broad political support and be open to scrutiny itself. Sweden's climate framework shows that it can be done: it was passed by a broad majority in the Riksdag.
 
+## Why does belonging to a party matter so much?
+
+Because humans are tribal animals, and that goes for politicians as much as anyone. Belonging to a group is an important part of who we are, and a party is a group with friends, shared memories and opponents. Researchers call it **affective polarisation** when feelings towards one's own group and towards other groups drift apart, and it can happen even as opinions move closer together. In Sweden it has risen slightly at every election since the turn of the millennium, although it was almost as high around 1980. It is higher among members of parliament than among voters.
+
+Cohesion serves a purpose. When members follow the party line, voters know what their vote will lead to and whom to hold accountable. But the parliamentary party also demands support for the line in votes, motions and public statements. What benefits the whole but costs the party can then be hard to say out loud.
+
+You cannot do away with the tribe, but you can belong to more than one. In Sweden's Pensions Group, all eight parliamentary parties look after the same system. In the Swedish Defence Commission they seek the broadest possible agreement. Since 1993 Finland's parliament has had a Committee for the Future with 17 members, which holds a dialogue with the government on the major questions of the future. There, politicians from different parties work on the same task. Research also shows that conversations across divides can reduce polarisation when they are well designed, and increase it when they are not.
+
+This does not replace the parties, and it does not solve everything. The Swedish Defence Commission split in 2019, when four parties left the work in a dispute over how much money defence should receive. Groups for each societal system could also become new camps, one for the economy and one for nature, unless each group is responsible for what proposals do to all four. The reasonable demand is therefore that more major questions get this kind of work across party lines, with the shared vision as the task. And the vision must remain everyone's, or it becomes just one more tribe's flag.
+
 ## So what is the answer, really?
 
-Democracy is good at changing its leaders, but it lacks a way to set a direction and keep to it. That is not because politicians are worse than other people. It is because of how the system is built. Elections are about leaders and promises, scrutiny is about rules, and each ideology guards its own part of society.
+Democracy is good at changing its leaders, but it lacks a way to set a direction and keep to it. That is not because politicians are worse than other people. It is because of how the system is built. Elections are about leaders and promises, scrutiny is about rules, each ideology guards its own part of society, and the parties are also the tribe that politicians belong to.
 
 The solution is not a new ideology or a new party. The vision, a sustainable society, already has support, in Sweden even in the constitution. What is missing is for each party to report its path there, and for someone independent to check whether the report holds up. Then an election becomes a choice between paths towards a shared goal, and not just a choice between colours.
 
@@ -72,6 +82,8 @@ The solution is not a new ideology or a new party. The vision, a sustainable soc
 
 - [Norms, Values and Ideals – The Social and Cultural System](<../../The Social and Cultural System/Norms, Values and Ideals/Norms, Values and Ideals.md>)
 
+- [Trust and Community – The Social and Cultural System](<../../The Social and Cultural System/Trust and Community/Trust and Community.md>)
+
 ## External sources
 
 - [The Instrument of Government, Chapter 1, Article 2 (lagen.nu) (in Swedish)](https://lagen.nu/1974:152)
@@ -85,3 +97,19 @@ The solution is not a new ideology or a new party. The vision, a sustainable soc
 - [CPB, Charted Choices 2025–2028 (2023) (in Dutch)](https://www.cpb.nl/sites/default/files/omnidownload/Keuzes-in-Kaart-2025-2028.pdf)
 
 - [Future Generations Commissioner for Wales, Well-being of Future Generations (Wales) Act 2015](https://www.futuregenerations.wales/about-us/future-generations-act/)
+
+- [Iyengar et al., The Origins and Consequences of Affective Polarization in the United States (Annual Review of Political Science, 2019)](https://annualreviews.org/doi/pdf/10.1146/annurev-polisci-051117-073034)
+
+- [Henrik Oscarsson, The affective landscape of the Riksdag (University of Gothenburg) (in Swedish)](https://www.gu.se/sites/default/files/2025-04/Riksdagens_landskap_kap3.pdf)
+
+- [Magnus Hagevi, Members' perceived influence in the parliamentary party groups over three decades (University of Gothenburg) (in Swedish)](https://www.gu.se/sites/default/files/2025-04/Riksdagens_landskap_kap8.pdf)
+
+- [Government of Sweden, The Pensions Group (in Swedish)](https://regeringen.se/regeringens-politik/socialforsakringar/pensionsgruppen/)
+
+- [Government of Sweden, The Defence Commission has begun its work (2026) (in Swedish)](https://regeringen.se/artiklar/2026/02/forsvarsberedningen-har-paborjat-sitt-arbete/)
+
+- [SVT, After the split: the Defence Commission's final report is presented (2019) (in Swedish)](https://www.svt.se/nyheter/inrikes/efter-sprickan-nu-presenteras-forsvarsberedningens-slutrapport)
+
+- [Parliament of Finland, Committee for the Future](https://www.eduskunta.fi/EN/valiokunnat/tulevaisuusvaliokunta)
+
+- [Frontiers in Political Science, systematic review of deliberation and polarisation (2023)](https://www.frontiersin.org/articles/10.3389/fpos.2023.1127372)
