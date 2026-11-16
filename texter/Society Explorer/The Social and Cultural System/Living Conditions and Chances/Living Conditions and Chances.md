@@ -1,3 +1,9 @@
+## What are living conditions?
+
+**Living conditions** are the circumstances that frame a person's life: housing, health, income, education, work, safety and the people around them. Some you choose yourself; others you are born into or meet along the way.
+
+Living conditions decide which chances you actually have. Two people with the same rights can have very different room to act, depending on where they live, what they earn and how they are doing. That is why this page is about both conditions and chances.
+
 ## Doesn't everyone have the same chances in a country like Sweden?
 
 Formally yes, in practice no. Everyone has the same right to go to school, look for work and vote. But what you can do with your rights depends on where you grow up, what resources your family has, how you are doing and how you are treated.

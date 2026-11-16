@@ -1,3 +1,5 @@
+<!-- description: What is a sustainable society? A good life for all, within planetary boundaries. How the economy, democracy, ecology and society fit together. -->
+
 ![The Society Map: the four societal systems with people at the centre, the social foundation and the planetary boundaries](<../Our Society/The Society Map/The Society Map.svg>)
 
 ## Welcome!
